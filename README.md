@@ -1,13 +1,13 @@
-# PA4 - Information Retrieval
+# PA3 - Information Retrieval
 
 ## Recommended before Starting
 
-We recommend checking out the following before getting started on PA4:
+We recommend checking out the following before getting started on PA3:
 
 * The Week 4 videos and slides.
-* The Week Group Work 3 and slides on Information Retrieval.
-* Chris Manning's Canvas Videos on Information Retrieval.
-* The Manning, Raghavan, Schütze readings on Boolean Retrieval, Term vocabulary and postings lists, Scoring, term weighting, and the vector space model, and Evaluation in Information Retrieval
+* In-class Lab 3 and slides on Information Retrieval.
+* Canvas Videos on Information Retrieval.
+* The readings on Boolean Retrieval, Term vocabulary and postings lists, Scoring, term weighting, and the vector space model, and Evaluation in Information Retrieval
 
 ## Getting the Assignment
 
@@ -18,15 +18,15 @@ you'll want to:
    Ubuntu for Windows for Windows, or SSH into Rice/Myth) the same way you 
    did for the previous PAs. 
 
-1. Clone the git repository for PA4 (this repository) into a folder of your 
+1. Clone the git repository for PA3 (this repository) into a folder of your 
    choice by typing this in your terminal:
       
-        git clone https://github.com/cs124/pa4-information-retrieval.git
+        git clone https://github.com/cs124/pa3-information-retrieval.git
 
 2. Enter the project root directory and activate your cs124 conda environment by
    doing:
    
-        cd pa4-information-retrieval
+        cd pa3-information-retrieval
         conda activate cs124
    
     You should now see `(cs124)` in front of your shell prompt. 
@@ -45,7 +45,7 @@ you'll want to:
     notebook in a browser of your choice.
    
 5. From the Jupyter notebook file explorer window that opens, click on the
-pa4.ipynb file to open and edit it.
+pa3.ipynb file to open and edit it.
 
 ### Google Colaboratory
 
@@ -57,13 +57,13 @@ pa4.ipynb file to open and edit it.
 2. Now go to File->Open Notebook. Go to the GitHub tab. It will ask you to log 
    in to your GitHub account (if you don't have one it is easy to make one).
    Once you've done that, copy and paste the URL: 
-   https://github.com/cs124/pa4-information-retrieval into the search box and hit enter. 
+   https://github.com/cs124/pa3-information-retrieval into the search box and hit enter. 
    It should show:
    
-            Repository: cs124/pa4-information-retrieval
+            Repository: cs124/pa3-information-retrieval
             Branch:  Main
 
-   Click on pa4.ipynb below to load the notebook.
+   Click on pa3.ipynb below to load the notebook.
       
 
 ## [NOT RECOMMENDED] - Rice/Myth
@@ -98,15 +98,15 @@ to use as an SSH client. Install and run it.
    You will also likely be asked to authenticate using 
    2-factor authentication.
 
-2. Clone the git repository for PA4 in a location of your choice:
+2. Clone the git repository for PA3 in a location of your choice:
       
-        git clone https://github.com/cs124/pa4-information-retrieval.git
+        git clone https://github.com/cs124/pa3-information-retrieval.git
    
 3. Enter the project root directory and activate your cs124 conda environment 
    (you should have already created this as part of PA0. 
    If not, please go back and follow the instructions there): 
    
-        cd pa4-pa4-information-retrieval
+        cd pa3-information-retrieval
         conda activate cs124
 
 4. Start up your jupyter notebook server without a browser.
@@ -184,14 +184,14 @@ solution for you. It should generate a zip file `submission.zip`.
 1. Once you've saved all your changes, go to File->Download .ipynb to download
 your notebook file to your local machine.
 2. If your solution required any extra files, make sure they were located in
-pa4-information-retrieval/deps. Go to the file explorer on the left-hand side and download
+pa3-information-retrieval/deps. Go to the file explorer on the left-hand side and download
 those as well.
-1. Once you have pa4.ipynb and any deps files you need saved locally,
+1. Once you have pa3.ipynb and any deps files you need saved locally,
 create a zip file (either from your OS's file explorer or the terminal), making
 sure that it has the following structure:
    
         deps/
-        pa4.ipynb
+        pa3.ipynb
 
 3. Upload the zip file as your solution to the PA4 Information Retrieval  assignment in 
    Gradescope (http://www.gradescope.com).
@@ -227,5 +227,5 @@ local machine.
     to download the file from Rice/Myth to your local machine. You should now
    be able to access the file locally at c:\temp\submission.zip
    
-3. Upload the zip file as your solution to the PA4 Information Retrieval  assignment in 
+3. Upload the zip file as your solution to the PA3 Information Retrieval assignment in 
    Gradescope (http://www.gradescope.com).
