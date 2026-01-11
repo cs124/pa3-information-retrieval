@@ -148,7 +148,7 @@ to use as an SSH client. Install and run it.
     browser where requested.
     
 7. From the Jupyter notebook file explorer window that opens, click on the
-pa4.ipynb file to open it. All your implementation will be done directly in the
+pa3.ipynb file to open it. All your implementation will be done directly in the
    notebook.
 
 # Submitting your Solution
@@ -158,7 +158,7 @@ pa4.ipynb file to open it. All your implementation will be done directly in the
 1. You can run the cell at the bottom of the Jupyter notebook to zip up your
 solution for you. It should generate a zip file `submission.zip`.
    
-2. Upload the zip file as your solution to the PA4 IR assignment in 
+2. Upload the zip file as your solution to the PA3 IR assignment in 
    Gradescope (http://www.gradescope.com).
 
 ## Ubuntu for Windows
@@ -176,7 +176,7 @@ solution for you. It should generate a zip file `submission.zip`.
    
         cp /path/to/submission.zip /mnt/c/Users/[your Windows username]/Desktop
 
-3. Upload the zip file as your solution to the PA4 Information Retrieval assignment in 
+3. Upload the zip file as your solution to the PA3 Information Retrieval assignment in 
    Gradescope (http://www.gradescope.com).
 
 ## Google Colaboratory
@@ -193,7 +193,7 @@ sure that it has the following structure:
         deps/
         pa3.ipynb
 
-3. Upload the zip file as your solution to the PA4 Information Retrieval  assignment in 
+3. Upload the zip file as your solution to the PA3 Information Retrieval  assignment in 
    Gradescope (http://www.gradescope.com).
 
 ## Rice/Myth
