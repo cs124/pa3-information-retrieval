@@ -7,7 +7,7 @@ We recommend checking out the following before getting started on PA3:
 * The Week 4 videos and slides.
 * In-class Lab 3 and slides on Information Retrieval.
 * Canvas Videos on Information Retrieval.
-* The readings on Boolean Retrieval, Term vocabulary and postings lists, Scoring, term weighting, and the vector space model, and Evaluation in Information Retrieval
+* The readings on Term vocabulary and postings lists, Scoring, term weighting, and the vector space model, and Evaluation in Information Retrieval
 
 ## Getting the Assignment
 
